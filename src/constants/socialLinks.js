@@ -3,8 +3,6 @@ import {
   FaFacebookSquare,
   FaLinkedin,
   FaGithub,
-  FaDribbbleSquare,
-  FaBehanceSquare,
   FaTwitterSquare,
 } from "react-icons/fa"
 
